@@ -8,4 +8,5 @@ DataCleaning_Preprocess.ipynb (Data clean and pre-process)
 3. Clustering_Semantic_Meaning.ipynb (Clustering sementic meaning method)
 
 Final_Model.ipynb (Method selected - methods 1+2)
+
 Testing.ipynb (Test to the final models)
